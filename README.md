@@ -27,8 +27,6 @@ Below, you can click on the LinkedIn icon to go to my LinkedIn profile or on the
     <img aling="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-## technologies I use in my day-to-day
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipegoraroficial)](https://github.com/anuraghazra/github-readme-stats)
 
 ## favorite repositories
