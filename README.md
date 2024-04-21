@@ -5,7 +5,7 @@ Welcome to my GitHub profile, here you can see some of my studies and personal p
 Below, you can click on the LinkedIn icon to go to my LinkedIn profile or on the adjacent icon to access the Power BI dashboards related to the personal projects I develop!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepegoraro/)
-[![BI Projects](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://app.fabric.microsoft.com/groups/me/apps/009c0ec7-6fe9-408f-8536-e56411401d10/reports/5f1abcd9-68a7-4cd7-aa4d-7f80ff763eda/ReportSection?ctid=14cbd5a7-ec94-46ba-b314-cc0fc972a161&experience=power-bi)
+[![BI Projects][(https://img.shields.io/website-up-down-green-red/http/monip.org.svg](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://app.fabric.microsoft.com/groups/me/apps/009c0ec7-6fe9-408f-8536-e56411401d10/reports/5f1abcd9-68a7-4cd7-aa4d-7f80ff763eda/ReportSection?ctid=14cbd5a7-ec94-46ba-b314-cc0fc972a161&experience=power-bi)
 
 ![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipegoraroficial&show_icons=true&theme=dracula)
 
@@ -21,6 +21,7 @@ Below, you can click on the LinkedIn icon to go to my LinkedIn profile or on the
     <img aling="center" alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
 </div>
 <div style="display: inline_block">
+    <img aling="center" alt="spark" src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white" />
     <img aling="center" alt="spark" src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white" />
     <img aling="center" alt="databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
     <img aling="center" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
