@@ -31,7 +31,7 @@ Below, you can click on the LinkedIn icon to go to my LinkedIn profile or on the
 </div>
 <div style="display: inline_block">
     <img aling="center" alt="airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-
+    <img aling="center" alt="streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipegoraroficial)](https://github.com/anuraghazra/github-readme-stats)
