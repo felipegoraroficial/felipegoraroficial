@@ -35,3 +35,4 @@ Below, you can click on the LinkedIn icon to go to my LinkedIn profile or on the
 In this repository, I develop my personal projects based on studies in technologies I am learning or improving. The goal is to acquire data in different forms, process the data, store it, and create dashboards that are useful for my day-to-day or when I need to find information that is interesting to me.
 
 - [Improvement skills and Studies](https://github.com/felipegoraroficial/meus-scripts)<br/>
+I use this repository to practice and study new technologies. The files created are related to courses or scripts that I believe will be useful for future personal projects or in daily work life.
