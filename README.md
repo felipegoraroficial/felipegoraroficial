@@ -18,3 +18,5 @@
     <img aling="center" alt="gcp" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img aling="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipegoraroficial)](https://github.com/anuraghazra/github-readme-stats)
