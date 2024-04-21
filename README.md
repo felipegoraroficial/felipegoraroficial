@@ -11,3 +11,24 @@
 <div style="display: inline_block"><br/>
     <img aling="center" alt="htm5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
+<div style="display: inline_block"><br/>
+    <img aling="center" alt="htm5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+<div style="display: inline_block"><br/>
+    <img aling="center" alt="htm5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+<div style="display: inline_block"><br/>
+    <img aling="center" alt="htm5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+<div style="display: inline_block"><br/>
+    <img aling="center" alt="htm5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</div>
+<div style="display: inline_block"><br/>
+    <img aling="center" alt="htm5" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</div>
+<div style="display: inline_block"><br/>
+    <img aling="center" alt="htm5" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</div>
+<div style="display: inline_block"><br/>
+    <img aling="center" alt="htm5" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
