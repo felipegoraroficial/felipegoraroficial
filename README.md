@@ -5,7 +5,6 @@ Welcome to my GitHub profile, here you can see some of my studies and personal p
 Below, you can click on the LinkedIn icon to go to my LinkedIn profile or on the adjacent icon to access the Power BI dashboards related to the personal projects I develop!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepegoraro/)
-[![BI Projects](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://app.fabric.microsoft.com/view?r=eyJrIjoiZWVhMjRkZmYtNGU1Yi00ZTRhLWJiMmEtYzc5M2ZmMjYzY2ExIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
 
 
 ![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipegoraroficial&show_icons=true&theme=dracula)
