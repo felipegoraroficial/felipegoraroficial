@@ -9,6 +9,7 @@ Below, you can click on the LinkedIn icon to go to my LinkedIn profile
 
 ![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipegoraroficial&show_icons=true&theme=dracula)
 
+
 ## technologies I use in my day-to-day
 
 <div style="display: inline_block"><br/>
