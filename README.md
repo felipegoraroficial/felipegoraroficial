@@ -3,6 +3,7 @@
 Welcome to my GitHub profile, here you can see some of my studies and personal projects that I use to practice new technologies or enhance my knowledge in the data field.
 
 Below, you can click on the LinkedIn icon to go to my LinkedIn profile 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepegoraro/)
 
 
