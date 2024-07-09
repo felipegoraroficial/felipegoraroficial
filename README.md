@@ -42,7 +42,7 @@ Below, you can click on the LinkedIn icon to go to my LinkedIn profile
 ## favorite repositories
 
 - [Projects Cases](https://github.com/felipegoraroficial/projetos)<br/>
-In this repository, I develop my personal projects based on studies in technologies I am learning or improving. The goal is to acquire data in different forms, process the data, store it, and create dashboards that are useful for my day-to-day or when I need to find information that is interesting to me.
+In this repository, I improve and maintain my personal projects on my virtual machine, using the Google Cloud platform and integrating resources such as Google BigQuery and buckets. The goal is to continuously enhance the data flow and test new ETL methods, always seeking better performance with Python packages for data modeling and storage, orchestrating the processes with Apache Airflow.
 
 - [Improvement skills and Studies](https://github.com/felipegoraroficial/meus-scripts)<br/>
 I use this repository to practice and study new technologies. The files created are related to courses or scripts that I believe will be useful for future personal projects or in daily work life.
