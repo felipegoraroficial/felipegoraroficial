@@ -1,8 +1,8 @@
-### Hello, my name is Felipe Pegoraro 👋
+### Olá, meu nome é Felipe Pegoraro 👋
 
-Welcome to my GitHub profile, here you can see some of my studies and personal projects that I use to practice new technologies or enhance my knowledge in the data field.
+Bem-vindo ao meu perfil no GitHub. Aqui, você pode ver alguns dos meus estudos e projetos pessoais que uso para praticar novas tecnologias ou aprimorar meu conhecimento na área de dados.
 
-Below, you can click on the LinkedIn icon to go to my LinkedIn profile 
+Abaixo, você pode clicar no ícone do LinkedIn para acessar o meu perfil no LinkedIn 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepegoraro/)
 
@@ -10,7 +10,7 @@ Below, you can click on the LinkedIn icon to go to my LinkedIn profile
 ![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipegoraroficial&show_icons=true&theme=dracula)
 
 
-## technologies I use in my day-to-day
+## tecnologias que utilizo no meu dia a dia
 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -40,10 +40,13 @@ Below, you can click on the LinkedIn icon to go to my LinkedIn profile
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipegoraroficial)](https://github.com/anuraghazra/github-readme-stats)
 
-## favorite repositories
+## repositórios favoritos
 
-- [Projects Cases](https://github.com/felipegoraroficial/projetos)<br/>
-In this repository, I improve and maintain my personal projects on my virtual machine, using the Google Cloud platform and integrating resources such as Google BigQuery and buckets. The goal is to continuously enhance the data flow and test new ETL methods, always seeking better performance with Python packages for data modeling and storage, orchestrating the processes with Apache Airflow.
+- [Projetos](https://github.com/felipegoraroficial/projetos)<br/>
+A funcionalidade deste repositório é aprimorar continuamente o fluxo de dados e testar novos métodos de ETL/ELT, sempre buscando o melhor desempenho com pacotes Python/PySpark para modelagem e armazenamento de dados. Os processos são orquestrados com o Apache Airflow, e os dataframes são carregados em bancos de dados como MySQL, PostgreSQL, MongoDB, entre outros.
 
-- [Improvement skills and Studies](https://github.com/felipegoraroficial/meus-scripts)<br/>
-I use this repository to practice and study new technologies. The files created are related to courses or scripts that I believe will be useful for future personal projects or in daily work life.
+- [Funções](https://github.com/felipegoraroficial/meus-scripts)<br/>
+Utilizo este repositório para salvar funções que considero importantes ou que utilizo com frequência em meus projetos, visando reutilizar os códigos de forma eficiente.
+
+- [Cursos](https://github.com/felipegoraroficial/cursos)<br/>
+Utilizo este repositório para acompanhar cursos sobre novas tecnologias e aprimorar o conhecimento em tecnologias que já pratico no meu dia a dia.
