@@ -40,11 +40,12 @@ Abaixo, você pode clicar no ícone do LinkedIn para acessar o meu perfil no Lin
 
 ## repositórios favoritos
 
-- [Projetos](https://github.com/felipegoraroficial/projetos)<br/>
-A funcionalidade deste repositório é aprimorar continuamente o fluxo de dados e testar novos métodos de ETL/ELT, sempre buscando o melhor desempenho com pacotes Python/PySpark para modelagem e armazenamento de dados. Os processos são orquestrados com o Apache Airflow, e os dataframes são carregados em bancos de dados como MySQL, PostgreSQL, MongoDB, entre outros.
+- [FIFA](https://github.com/felipegoraroficial/projeto_fifa)<br/>
+Esse repositório é referente ao case ETL com apache airflow em ambiente onpremise onde continuo aprimorando a sua estrutura e adiciono novos metodos de pratica de modelagem de dados em ambiente onpremise.
 
-- [Funções](https://github.com/felipegoraroficial/meus-scripts)<br/>
-Utilizo este repositório para salvar funções que considero importantes ou que utilizo com frequência em meus projetos, visando reutilizar os códigos de forma eficiente.
+- [Nintendo](https://github.com/felipegoraroficial/projeto_nintendo)<br/>
+Esse repositório é referente ao case ELTL em abiente GPC utilizando o Composer para orquestrar o pipeline com Apache Airflow integrado com a plataforma dbt onde continuo aprimorando a sua estrutura e adiciono novos metodos de pratica de modelagem de dados em ambiente onpremise.
 
-- [Cursos](https://github.com/felipegoraroficial/cursos)<br/>
-Utilizo este repositório para acompanhar cursos sobre novas tecnologias e aprimorar o conhecimento em tecnologias que já pratico no meu dia a dia.
+- [Steam](https://github.com/felipegoraroficial/projeto_steam)<br/>
+Esse repositório é referente ao case de contrução de um pipeline de dados utilizando a plataforma do Databricks onde continuo aprimorando a sua estrutura e adiciono novos metodos de pratica de modelagem de dados em ambiente onpremise.
+
