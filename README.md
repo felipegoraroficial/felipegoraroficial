@@ -40,12 +40,8 @@ Abaixo, você pode clicar no ícone do LinkedIn para acessar o meu perfil no Lin
 
 ## repositórios favoritos
 
-- [FIFA](https://github.com/felipegoraroficial/projeto_fifa)<br/>
-Esse repositório é referente ao case ETL com apache airflow em ambiente onpremise onde continuo aprimorando a sua estrutura e adiciono novos metodos de pratica de modelagem de dados em ambiente onpremise.
-
 - [Nintendo](https://github.com/felipegoraroficial/projeto_nintendo)<br/>
-Esse repositório é referente ao case ELTL em abiente GPC utilizando o Composer para orquestrar o pipeline com Apache Airflow integrado com a plataforma dbt onde continuo aprimorando a sua estrutura e adiciono novos metodos de pratica de modelagem de dados em ambiente onpremise.
+Esse repositório é referente ao case de pipeline de dados batch na plataforma databricks e dbt em ambiente cloud da Azure
 
 - [Steam](https://github.com/felipegoraroficial/projeto_steam)<br/>
-Esse repositório é referente ao case de contrução de um pipeline de dados utilizando a plataforma do Databricks onde continuo aprimorando a sua estrutura e adiciono novos metodos de pratica de modelagem de dados em ambiente onpremise.
-
+Esse repositório é referente ao case de pipeline de dados streming na plataforma databricks em ambiente cloud da Azure
