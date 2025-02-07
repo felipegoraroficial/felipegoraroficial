@@ -1,6 +1,6 @@
 ### Olá, meu nome é Felipe Pegoraro 👋
 
-Bem-vindo ao meu perfil no GitHub. Aqui, você pode ver alguns dos meus estudos e projetos pessoais que uso para praticar novas tecnologias ou aprimorar meu conhecimento na área de dados.
+Bem-vindo ao meu perfil no GitHub. Aqui, você pode ver alguns dos meus projetos de estudo pessoais que uso para praticar novas tecnologias ou aprimorar meu conhecimento na área de dados.
 
 Abaixo, você pode clicar no ícone do LinkedIn para acessar o meu perfil no LinkedIn 
 
