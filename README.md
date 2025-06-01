@@ -38,7 +38,10 @@ Abaixo, você pode clicar no ícone do LinkedIn para acessar o meu perfil no Lin
 ## repositórios favoritos
 
 - [Nintendo](https://github.com/felipegoraroficial/projeto_nintendo)<br/>
-Esse repositório é referente ao case de pipeline de dados batch na plataforma databricks e dbt em ambiente cloud da Azure
+Esse repositório é referente ao case de pipeline de dados na plataforma databricks e dbt em ambiente cloud da Azure
 
-- [Steam](https://github.com/felipegoraroficial/projeto_steam)<br/>
-Esse repositório é referente ao case de pipeline de dados streming na plataforma databricks em ambiente cloud da Azure
+- [Finops](https://github.com/felipegoraroficial/projeto_azure_cost)<br/>
+Esse repositório é referente ao case de pipeline de dados streming utilizando imagens do Docker
+
+- [Lib Pypi](https://github.com/felipegoraroficial/my_libs_py)<br/>
+Esse repositório é referente a construção de um lib em spark para processar dados em uma arquitetura medalhão (Bronze->Silver->Gold)
