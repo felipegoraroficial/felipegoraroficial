@@ -163,7 +163,8 @@ Bem-vindo ao meu perfil no GitHub. Aqui, você pode ver alguns dos meus projetos
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
 />
 
-<br/>
+</div>
+<br>
 <br/>
 
 ### Estatísticas 📊
