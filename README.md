@@ -68,14 +68,6 @@ Bem-vindo ao meu perfil no GitHub. Aqui, você pode ver alguns dos meus projetos
 />
 <img 
     align="left" 
-    alt="AzureSQL" 
-    title="AzureSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img 
-    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
@@ -132,14 +124,6 @@ Bem-vindo ao meu perfil no GitHub. Aqui, você pode ver alguns dos meus projetos
 />
 <img 
     align="left" 
-    alt="Github" 
-    title="Github"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<img 
-    align="left" 
     alt="VScode" 
     title="VScode"
     width="30px" 
@@ -153,14 +137,6 @@ Bem-vindo ao meu perfil no GitHub. Aqui, você pode ver alguns dos meus projetos
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Jira" 
-    title="Jira"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
 />
 
 </div>
