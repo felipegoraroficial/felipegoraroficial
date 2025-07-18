@@ -1,6 +1,9 @@
 ### Felipe Pegoraro 👋
 
-Bem-vindo ao meu perfil no GitHub. Aqui, você pode ver alguns dos meus projetos de estudo pessoais que uso para praticar novas tecnologias ou aprimorar meu conhecimento na área de dados.
+Bem-vindo ao meu perfil no GitHub!  
+Aqui você encontra alguns dos meus projetos de estudo pessoais feitos para praticar novas tecnologias e aprimorar o meu conhecimento em dados.
+
+Abaixo, você pode clicar nos ícones para ser direcionado diretamente para minhas redes sociais ou entrar em contato comigo via WhatsApp ou e-mail:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipepegoraro/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipegoraro/)
@@ -139,9 +142,7 @@ Bem-vindo ao meu perfil no GitHub. Aqui, você pode ver alguns dos meus projetos
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
 />
 
-</div>
-<br>
-<br/>
+<br><br>
 
 ### Estatísticas 📊
 
