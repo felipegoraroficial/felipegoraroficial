@@ -111,6 +111,14 @@ Abaixo, você pode clicar nos ícones para ser direcionado diretamente para minh
 />
 <img 
     align="left" 
+    alt="Streamlit" 
+    title="Streamlit"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Terraform" 
     title="Terraform"
     width="30px" 
@@ -127,6 +135,14 @@ Abaixo, você pode clicar nos ícones para ser direcionado diretamente para minh
 />
 <img 
     align="left" 
+    alt="Github" 
+    title="Github"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
     alt="VScode" 
     title="VScode"
     width="30px" 
@@ -140,6 +156,14 @@ Abaixo, você pode clicar nos ícones para ser direcionado diretamente para minh
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Jira" 
+    title="Jira"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
 />
 
 <br><br>
